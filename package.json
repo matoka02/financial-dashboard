@@ -1,5 +1,7 @@
 {
   "private": true,
+  "author": "Anastasiia",
+  "repository": "git@gitlab.com:matoka/financial-dashboard.git",
   "scripts": {
     "build": "next build",
     "dev": "next dev",
